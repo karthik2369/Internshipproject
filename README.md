@@ -1,5 +1,10 @@
  AI – DevOps Engineer Internship
 
+
+![Internship](https://img.shields.io/badge/Role-AI%20%2B%20DevOps%20Intern-blue)
+![Company](https://img.shields.io/badge/Company-Rooman%20Technologies-orange)
+![Duration](https://img.shields.io/badge/Duration-Sep%202024%20%E2%80%93%20Feb%202025-success)
+
 Company: Rooman Technologies, Bangalore
 Duration: Sep 2024 – Feb 2025
 Certification: Government Certified – AI + DevOps
